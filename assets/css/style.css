@@ -1,0 +1,25 @@
+.jumbotron{
+font-family: 'Coustard', serif;
+}
+.rounded{
+background-image: url(http://cdn.backgroundhost.com/backgrounds/subtlepatterns/gplaypattern.png);
+}
+li {
+  list-style: none;
+}
+nav{
+  font-size: 20px;
+}
+.progress{
+  width: 70%;
+  text-decoration: none;
+}
+#Contact .card-header{
+  font-size: 25px;
+}
+.jumbotron h2{
+  font-size: 30px;
+}
+.progress{
+  box-shadow: 10px 5px 5px grey;
+}
